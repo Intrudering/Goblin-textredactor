@@ -1,0 +1,11 @@
+C:\Users\adm\Documents\проэкты\test red\Goblin s text redactor\Goblin s text redactor\bin\Debug\Goblin s text redactor.exe.config
+C:\Users\adm\Documents\проэкты\test red\Goblin s text redactor\Goblin s text redactor\bin\Debug\Goblin s text redactor.exe
+C:\Users\adm\Documents\проэкты\test red\Goblin s text redactor\Goblin s text redactor\bin\Debug\Goblin s text redactor.pdb
+C:\Users\adm\Documents\проэкты\test red\Goblin s text redactor\Goblin s text redactor\obj\Debug\Goblin s text redactor.csproj.AssemblyReference.cache
+C:\Users\adm\Documents\проэкты\test red\Goblin s text redactor\Goblin s text redactor\obj\Debug\Goblin s text redactor.csproj.SuggestedBindingRedirects.cache
+C:\Users\adm\Documents\проэкты\test red\Goblin s text redactor\Goblin s text redactor\obj\Debug\Goblin_s_text_redactor.Form1.resources
+C:\Users\adm\Documents\проэкты\test red\Goblin s text redactor\Goblin s text redactor\obj\Debug\Goblin_s_text_redactor.Properties.Resources.resources
+C:\Users\adm\Documents\проэкты\test red\Goblin s text redactor\Goblin s text redactor\obj\Debug\Goblin s text redactor.csproj.GenerateResource.cache
+C:\Users\adm\Documents\проэкты\test red\Goblin s text redactor\Goblin s text redactor\obj\Debug\Goblin s text redactor.csproj.CoreCompileInputs.cache
+C:\Users\adm\Documents\проэкты\test red\Goblin s text redactor\Goblin s text redactor\obj\Debug\Goblin s text redactor.exe
+C:\Users\adm\Documents\проэкты\test red\Goblin s text redactor\Goblin s text redactor\obj\Debug\Goblin s text redactor.pdb
